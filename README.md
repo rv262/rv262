@@ -5,7 +5,7 @@
 - <b>Profit Optimization of Superstores</b>
   - [repository](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Governance and Economic Growth Analysis</b>
-  - [repository](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [repository]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/aa2293/INFO2950-Final-Project.git)) <b>
 - <b>Crime Rates in NYC Public Schools</b>
   - [repository](https://github.com/joshmadakor1/Sentinel-Lab)
 
