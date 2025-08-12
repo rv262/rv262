@@ -3,33 +3,26 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Profit Optimization of Superstores</b>
-  - [repository](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [repository](https://docs.google.com/document/d/1ip0ogQKBwwRLDrHPOyDX52Je333VZrNvZZ5GEbuWVgs/edit?usp=sharing)
 - <b>Governance and Economic Growth Analysis</b>
-  - [repository]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/aa2293/INFO2950-Final-Project.git)) <b>
+  - [repository](https://github.com/aa2293/INFO2950-Final-Project.git) <b>
 - <b>Crime Rates in NYC Public Schools</b>
-  - [repository](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [repository](https://drive.google.com/file/d/1OS-2LvdCAPOzFD75cSfBIOHQ8SFazmAU/view?usp=sharing)
 
 <h2>📺 Websites /h2>
 
-- [website portfolio](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [photography](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [time capsule](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [post it note](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [CUSAIL](https://github.com/cusail-bops/CUSail_Website.git)
+- [photography]()
+- [time capsule]()
+- [post it note]()
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="RiyaVarghese | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/riya-varghese35/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
